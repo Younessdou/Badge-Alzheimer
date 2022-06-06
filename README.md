@@ -78,7 +78,7 @@ Après ajout des pins pour notre bouton SOS et RESET, on se retrouve avec une Pi
 - Pin PA9-10 : Module LoRaWan   
       
  # V) Codage du module GPS
- Cette partie a été faite par deux autres étudiants qui se sont occupés de la partie software de plusieurs projets dont le notre, veuillez trouvez leurs rapport pour notre projet ci-joint avec les fichiers, il est intitulé ainsi que le git du codage du module GPS via le lien ci-dessous.
+ Cette partie a été faite par deux autres étudiants qui se sont occupés de la partie software de plusieurs projets dont le notre, veuillez trouvez leurs rapport pour notre projet ci-joint avec les fichiers, il est intitulé «Rapport_Alzheimer_PRIOU_REGNAULT.pdf» ainsi que le git du codage du module GPS via le lien ci-dessous.
 https://github.com/ValerianPRIOU/Alzheimer
  # VI) LoRa or LoRaWAN?
       EN ATTENTE D'OLOVER!!!!
