@@ -99,3 +99,4 @@ https://github.com/ValerianPRIOU/Alzheimer
 https://github.com/inassra/batterie
 
 # Conclusion
+Pour le moment, nous n'avons toujours pas terminé notre projet, il nous reste dans la partie software l'assemblage du code du module GPS et le module LoRa dans un seul code qui doit être implementer par la suite dans le microprocesseur, lors du test de notre carte on a eu un problème avec le régulateur qui délivre les 5V par contre on obtient bien nos 6V à l'entrée ainsi que nos 3,3V à la sortie de l'autre régulateur. Ce premier projet a été trés intéressant puisqu'on pu mettre à disposition la plupart des connaissances et compétences vu durant cette année. L'idée du projet est trés intéressante 
