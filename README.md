@@ -1,5 +1,6 @@
 # Badge-Alzheimer
 Projet électronique du semestre 5
+![image](https://user-images.githubusercontent.com/102952196/172234339-7a247ab0-70ba-4eca-8208-53b98c0cd811.png)
 
 # Sommaire 
 ### Introdcution
@@ -28,7 +29,7 @@ Pour notre projet on a pris l'adresse de l'ENSEA comme épicentre et on a défin
 Durant ces 11 séances de projets, nous avons commencé par répartir les tâches entres nous en remplissant notre diagramme de gantt oú on a placé nos missions par ordre de priorité.
 
  ![Gantt](https://user-images.githubusercontent.com/102952196/172154765-9482008e-096a-402d-be36-c48180985edc.PNG)
-Et on a structuré notre badge selon le module suivant:
+Et on a structuré notre projet selon le diagramme d'architecture suivant:
   
   ![image](https://user-images.githubusercontent.com/102952196/172156091-67155b6f-def1-421c-9388-7977e902d51d.png)
 
