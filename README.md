@@ -67,7 +67,8 @@ tableau des microprocesseurs proposés:
   Au début on avait le choix entre 4 microprocesseurs, et puisqu’on va utiliser 2 UART et 1 GPIO; 1 pour le module GPS et 1 pour le LoRa, donc il nous restait 2 choix et puisque le STM32L021K4T6 n'est pas tounours fiable , on a opté pour le 4ème vu son prix qui est presque la moitié du 3ème et aussi puisqu’il a le même package que les autres donc on aura la possibilité de le changer sur notre PCB et aussi puisqu’il contient que 32 pin et ça reste plus simple et facile à souder et manipuler que celui avec 64 pins.
 
 # IV) Réalisation du PCB
-     
+        
+ ### A) Choix des pins du microP
 Nous avons fait bon usage du Logiciel STM32CubeIDE afin de voir les pins associés à l’UART, leurs numéros ainsi que leurs disposition lors de la création de la carte Pcb.
 Après ajout des pins pour notre bouton SOS et RESET, on se retrouve avec une Pin view comme ci-contre :
 
@@ -76,14 +77,23 @@ Après ajout des pins pour notre bouton SOS et RESET, on se retrouve avec une Pi
 - Pin PA5 : Bouton SOS
 - Pin PA14-15 : RESET 
 - Pin PA9-10 : Module LoRaWan   
-      
+        
+ ### B) Schematic et board
+        
+ ![image](https://user-images.githubusercontent.com/102952196/172228188-170e0d4e-d2f7-470b-ac41-4c7d0b681883.png)
+
  # V) Codage du module GPS
- Cette partie a été faite par deux autres étudiants qui se sont occupés de la partie software de plusieurs projets dont le notre, veuillez trouvez leurs rapport pour notre projet ci-joint avec les fichiers, il est intitulé «Rapport_Alzheimer_PRIOU_REGNAULT.pdf» ainsi que le git du codage du module GPS via le lien ci-dessous.
+ Cette partie a été faite par deux autres étudiants; Alexis Regnault et Valérian PRIOU qui se sont occupés de la partie software de plusieurs projets dont le notre, veuillez trouvez leurs rapport pour notre projet ci-joint avec les fichiers, il est intitulé «Rapport_Alzheimer_PRIOU_REGNAULT.pdf» ainsi que le git du codage du module GPS via le lien ci-dessous.
 https://github.com/ValerianPRIOU/Alzheimer
+        
  # VI) LoRa or LoRaWAN?
-      EN ATTENTE D'OLOVER!!!!
+ Cette partie a été géré par deux autres étudiants; Mohamed Amine Bouhyat Oliver BELLIARD ABREU, ils ont aussi travaillé sur la partie LoRawan des autres projets. Veuillez trouver le lien de leurs git ci-dessous.
+        
+        
+        
+
  # VII) Alimentation:
- Cette partie a été géré par deux étudiantes qui s'ocuppaient de l'alimentation de plusuieurs projets en même temps, vous trouverer le liens ci-dessous du travail détaillé qu'elles ont fait en parallèle avec nous.
+ Cette partie a été géré par deux étudiantes; Inass Rachidi Manon COTTAR qui s'ocuppaient de l'alimentation de plusuieurs projets en même temps, vous trouverez le liens ci-dessous du travail détaillé qui a été fait en parallèle avec nous.
 
 https://github.com/inassra/batterie
 
