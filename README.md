@@ -94,6 +94,9 @@ Après ajout des pins pour notre bouton SOS et RESET, on se retrouve avec une Pi
    
   Aprés le routage de ce dernier, on a bien respecter notre objectif qui est de réduire l'espace entre les composants et mettre un grand nombre de liaison en top afin d'obtenir une carte adéquate avec la forme de notre badge, ensuite on l'a imprimé et on a soudé les composants dessus à l'aide de mr.Papazouglou et mme.Kittel.
  
+ Voici le format final de notre PCB:
+        
+![image](https://user-images.githubusercontent.com/102952196/172250104-db166c38-a251-456d-bc1c-b1ed38cc40ca.png)
         
         
  # V) Codage du module GPS
@@ -102,7 +105,7 @@ https://github.com/ValerianPRIOU/Alzheimer
         
  # VI) LoRa or LoRaWAN?
  Cette partie a été géré par deux autres étudiants; Mohamed Amine Bouhyat Oliver BELLIARD ABREU, ils ont aussi travaillé sur la partie LoRawan des autres projets. Veuillez trouver le lien de leurs git ci-dessous.
-        
+  https://github.com/OliverBELLIARD/LoRaWAN     
              
 
  # VII) Alimentation:
