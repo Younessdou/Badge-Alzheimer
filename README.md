@@ -105,6 +105,7 @@ https://github.com/ValerianPRIOU/Alzheimer
         
  # VI) LoRa or LoRaWAN?
  Cette partie a été géré par deux autres étudiants; Mohamed Amine Bouhyat Oliver BELLIARD ABREU, ils ont aussi travaillé sur la partie LoRawan des autres projets. Veuillez trouver le lien de leurs git ci-dessous.
+        
   https://github.com/OliverBELLIARD/LoRaWAN     
              
 
