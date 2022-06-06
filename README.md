@@ -88,7 +88,8 @@ Après ajout des pins pour notre bouton SOS et RESET, on se retrouve avec une Pi
  ![image](https://user-images.githubusercontent.com/102952196/172228188-170e0d4e-d2f7-470b-ac41-4c7d0b681883.png)
 
   À partir de ce schématic on a généré notre board pour relier les composants entre eux en top ou en buttom.
-  ![Uploading WhatsApp Image 2022-06-06 at 22.28.46.jpeg…]()
+        
+ ![image](https://user-images.githubusercontent.com/102952196/172246452-4f0cc083-9cef-4c66-bd3f-23c5b033cdee.png)
 
    
   Aprés le routage de ce dernier, on a bien respecter notre objectif qui est de réduire l'espace entre les composants et mettre un grand nombre de liaison en top afin d'obtenir une carte adéquate avec la forme de notre badge, ensuite on l'a imprimé et on a soudé les composants dessus à l'aide de mr.Papazouglou et mme.Kittel.
